@@ -1,0 +1,10 @@
+{
+  "name": "p5js-lab",
+  "version": "0.0.0",
+  "description": "A playground for learning p5js.",
+  "main": "/src/index.js",
+  "repository": "https://github.com/alexguerra-dev/p5js-lab",
+  "author": "Alex Guerra <alexander.a.guerra@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
